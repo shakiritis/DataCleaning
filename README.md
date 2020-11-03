@@ -10,7 +10,7 @@ A data cleaning approach for medical transcriptions text classification. This is
 
 A simple flowchart of the whole procedure is presented in the below flowchart - 
 
-! [screenshot](flow.png)
+! [](/flow.png?raw=true)
 
 
  
