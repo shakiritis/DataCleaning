@@ -1,7 +1,6 @@
 # DataCleaning
 Dataset cleaning for getting better model performance
-
-    Version: 0.0.3  
+ 
     Python : 3.6.9
     Author : Md. Habibur Rahman 
              Shakir Hossain  
