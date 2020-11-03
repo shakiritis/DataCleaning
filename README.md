@@ -7,6 +7,12 @@ A data cleaning approach for medical transcriptions text classification. This is
 * [Random Forest]
 * [Decision Tree]
 * [Linear Regression]
+
+A simple flowchart of the whole procedure is presented in the below flowchart - 
+
+! [screenshot](flow.png)
+
+
  
     Python : 3.6.9
     Author : Md. Habibur Rahman 
