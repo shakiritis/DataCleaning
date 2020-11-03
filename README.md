@@ -10,8 +10,7 @@ A data cleaning approach for medical transcriptions text classification. This is
 
 A simple flowchart of the whole procedure is presented in the below flowchart - 
 
-! [](flow.png?raw=true)
-
+![](https://github.com/shakiritis/DataCleaning/blob/main/flow.png?raw=true)
 
  
     Python : 3.6.9
