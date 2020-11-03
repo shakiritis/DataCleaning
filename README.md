@@ -1,5 +1,11 @@
 # DataCleaning
-Dataset cleaning for getting better model performance
+A data cleaning approach for medical transcriptions text classification. The classification algorithms used for this approach are - 
+    * Logistic regression
+    * Support Vector Machines (SVM)
+    * K Nearest Neighbors (KNN)
+    * Random Forest
+    * Decision Tree
+    * Linear Regression
  
     Python : 3.6.9
     Author : Md. Habibur Rahman 
